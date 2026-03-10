@@ -7,7 +7,7 @@ test('madam is a palindrome', () => {
 test('racecar is a palindrome', () => {
   expect(isPalindrome('racecar')).toBe(true);
 });
-
+//test
 test('hello is not a palindrome', () => {
   expect(isPalindrome('hello')).toBe(false);
 });
