@@ -10,6 +10,6 @@ test('10+70=80',()=>{
     expect(addition(10,70)).toBe(80);
 });
 
-test.skip('10+70=80',()=>{
+test('10+70=80',()=>{
     expect(addition(10,70)).toBe(80);
 });
